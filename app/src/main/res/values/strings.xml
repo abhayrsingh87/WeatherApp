@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_title">search city</string>
+    <string name="search_error_text">Unable to fetch weather result</string>
+    <string name="city_name">%1$s</string>
+    <string name="min_temp">Min Temp: %1$.0f</string>
+    <string name="max_temp">MaxTemp: %1$.0f</string>
+</resources>
